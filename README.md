@@ -55,7 +55,7 @@
 ### 💬 Quick Links
 
 - 🔍 **Pinned Projects**: See repositories in the `Pinned` section of my profile  
-- 🌐 **Portfolio**: [datachronicles.greymatterventure.com](https://datachronicles.greymatterventure.com)  
+- 🌐 **Portfolio**: [dataden.vercel.app](https://dataden.vercel.app/)  
 - 📫 **Email**: [northernlad9023@gmail.com](mailto:northernlad9023@gmail.com)  
 
 ---
